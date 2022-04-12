@@ -9,6 +9,6 @@
 </head>
 <body>
     <p> <?php echo "Hola Mundo"?> </p>
-
+    hola como estas mundo.
 </body>
 </html>
