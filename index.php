@@ -1,6 +1,6 @@
 <?php
 
-echo "Hola Mundo";
+echo "Hola Mundo IE Loma Linda";
 
 
 
