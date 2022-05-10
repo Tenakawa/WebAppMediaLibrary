@@ -1,13 +1,4 @@
 <?php
-
-echo "Hola Mundo IE Loma Linda";
-
-
-
-
-
-
-
-
-
-
+/*Como crear una clase en PHP*/
+$url =$_GET['url'];
+echo $url;
